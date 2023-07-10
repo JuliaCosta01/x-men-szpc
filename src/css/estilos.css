@@ -18,8 +18,8 @@ body{
     }
 
     .cabecalho{
-        display: flex;
-        justify-content: center;
+        display:flex;
+        justify-content:center;
     }
 
     .selecao-de-personagens{
